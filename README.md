@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
   > Introduction to programming in C
 <hr>
@@ -29,3 +30,78 @@ Table of contents
 * [Hash tables](/0x1A-hash_tables)
 * [Makefiles](/0x1C-makefiles)
 * [Searching algorithms](0x1E-search_algorithms)
+=======
+read me id you can 
+##vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+not it is supose to be 
+#cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccc
+]cccccccccccccccccccccccccccccc
+cccccccc
+cccccccccccccccc
+
+
+
+
+ccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccc
+ccccccccccccccccc
+cccccccc\
+cccc
+c
+ccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccc
+ccc
+ccccccccccccccccccccccccccccccc
+cccccccccccccccc
+cc
+c
+cc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cccccccccccccccccccccccc
+>>>>>>> 5d5d15a6c94d9c3d22bc480e620bae2866683580
